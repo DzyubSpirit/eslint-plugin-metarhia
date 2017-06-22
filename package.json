@@ -5,7 +5,9 @@
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "chaining",
+    "typeof"
   ],
   "author": "Vlad Dziuba",
   "main": "lib/index.js",
